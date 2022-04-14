@@ -3,4 +3,5 @@ bouton.addEventListener('click', afficher);
 function afficher(){
     console.log("Message");
     console.log("Attention!");
+    console.log("ERREUR");
 }
